@@ -5,11 +5,7 @@ function App() {
   return (
     <div>
       <Stopwatch/>
-
-
-      
     </div>
-    
   );
 }
 
